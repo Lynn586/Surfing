@@ -1,0 +1,41 @@
+body{
+	font-family: arial,georgia,"calibri light";
+}
+
+h1{
+font-size: 50px;	
+}
+
+h3{
+font-size: 20px;	
+}
+
+.jumbotron{
+
+  height: 500px;
+  background-image: url("man-ocean.jpg");
+
+  /* Centre l'image et sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row{
+	justify-content: space-around;
+	margin: auto;
+}
+
+.container{
+	
+	text-align: center;
+	color: white;
+	
+
+}
+
+
+.footer{
+	text-align: left;
+	color: grey;
+}
